@@ -1,1 +1,1 @@
-API teste em Node js onde onde foi criado um CRUD com rotas.
+API teste em Node js onde foi criado um CRUD com rotas.
